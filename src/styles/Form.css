@@ -1,0 +1,14 @@
+* {
+    background-color: beige;
+    color: gray;
+    font-family: monospace;
+}
+.form {
+    display: flex;
+    flex-direction: column;
+}
+.input {
+    margin-bottom: 8px;
+    padding: 5px;
+    border: 1px pink solid;
+}
