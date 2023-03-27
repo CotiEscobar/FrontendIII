@@ -5,6 +5,7 @@ import Form from './components/repaso/Form'
 import Pedido from './components/repaso/Pedido'
 import FunComponent from './components/useEffect/FunComponent'
 import RandomDog from './components/api/RandomDog'
+import Home from './components/food/Home'
 
 const pedidos = [
   {
@@ -61,7 +62,7 @@ function App() {
       })}
       
    */}
-    <RandomDog></RandomDog>
+   <Home></Home>
     </div>
   ) 
 
